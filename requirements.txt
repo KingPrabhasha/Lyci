@@ -38,5 +38,5 @@ bs4
 tswift
 pyrogram
 tgcrypto
-ffprobe/avprobe
-ffmpeg/avconv
+ffprobe
+
